@@ -23,9 +23,12 @@
 
 | الرئيسية | التفاصيل | التصنيفات |
 |----------|----------|-----------|
-| ![الشاشة الرئيسية](screenshots/home.png) | ![تفاصيل الفعالية](screenshots/details.png) | ![التصنيفات](screenshots/categories.png) |
+| ![الشاشة الرئيسية](https://github.com/user-attachments/assets/92d5ce85-50b0-4890-991e-c09f766727f4) | ![تفاصيل الفعالية](https://github.com/user-attachments/assets/b55a1b0d-4991-40a8-8f63-8538af10a307) | ![التصنيفات](https://github.com/user-attachments/assets/f10c458d-5b4b-40de-a17a-10df7460ef76) |
+## 🎥 فيديو توضيحي للتطبيق
 
-## 🎥 فيديو توضيحي
-[![فيديو توضيحي للتطبيق](assets/video_thumbnail.png)](https://youtu.be/your-video-link)
+
+
+https://github.com/user-attachments/assets/aa16ecbf-47dc-4041-a15b-263d3eeb7cd1
+
 
 </div>
